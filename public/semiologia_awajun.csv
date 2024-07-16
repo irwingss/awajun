@@ -1,0 +1,198 @@
+﻿Tipo;Tipo_Categ;Secuencia_tipos;Secuencia_intra;Sexo;Grupo_Etario;Solo_Hijos;Pregunta;Awajun;audios
+FILIACIÓN;ND;1;1;H;Adulto;No;Buenas noches señor; Pegkeg kiyaje apaju;1_1_H_Adulto_No
+FILIACIÓN;ND;1;1;M;Adulto;No;Buenas noches señora; Pegkeg kiyaje dukuju;
+FILIACIÓN;ND;1;1;H;Joven;No;Buenas noches joven; Pegkeg kiyaje datsa;
+FILIACIÓN;ND;1;1;M;Joven;No;Buenas noches señorita; Pegkeg kiyaje mugtsugta;
+FILIACIÓN;ND;1;2;ND;ND;No;¿Cómo estás?;Wajuk pujame?;
+FILIACIÓN;ND;1;3;ND;ND;No;¿Cómo te llamas?;Yaita dagmesh;
+FILIACIÓN;ND;1;4;ND;ND;No;¿Cuántos años tienes?;¿Mijanjumesh wajupa ajutjamua?;
+FILIACIÓN;ND;1;5;ND;ND;No;¿De dónde eres?;Tuwiyampaitpa;
+INTERROGATORIO;ND;2;1;H;Adulto;No;¿Tienes esposa?;Nuwemesh ajutjamuak;
+INTERROGATORIO;ND;2;1;H;Joven;No;¿Tienes esposa?;Nuwemesh ajutjamuak;
+INTERROGATORIO;ND;2;1;M;Adulto;No;¿Tienes esposo?;Aishumesh ajutjamuak;
+INTERROGATORIO;ND;2;1;M;Joven;No;¿Tienes esposo?;Aishumesh ajutjamuak;
+INTERROGATORIO;ND;2;2;ND;Adulto;No;¿Tienes hijos?;Uchigmesh ajutjamuak;
+INTERROGATORIO;ND;2;3;ND;ND;Sí;¿Cuántos hombres?;Wajupaita aishmagkush;
+INTERROGATORIO;ND;2;3;ND;ND;Sí;¿Cuántas mujeres?;Wajupaita nuwash;
+INTERROGATORIO;ND;2;4;ND;ND;Sí;¿Cuántos hijos muertos?;¿Wajupa uchigmesh jakaush ajutjamua?;
+INTERROGATORIO;ND;2;5;ND;ND;Sí;¿De qué?;¿Wajiyaiya?;
+INTERROGATORIO;ND;2;6;H;Adulto;No;¿Por qué ha venido señor?;¿Wagka taume apaju?;
+INTERROGATORIO;ND;2;6;M;Adulto;No;¿Por qué ha venido señora?;¿Wagka taume dukuju?;
+INTERROGATORIO;ND;2;6;H;Joven;No;¿Por qué ha venido joven?;¿Wagka taume datsa?;
+INTERROGATORIO;ND;2;6;M;Joven;No;¿Por qué ha venido señorita?;¿Wagka taume mugtsugta?;
+INTERROGATORIO;ND;2;7;ND;ND;No;¿Qué es lo que le molesta o por qué viene?;¿Waji waitkapawa atsa wagka taume?;
+INTERROGATORIO;ND;2;8;ND;ND;No;¿Desde cuándo está enfermo?;¿Wajuti nagkamsamea jaame?;
+INTERROGATORIO;ND;2;9;ND;ND;Sí;¿Qué enfermedad tiene tu hijo?;¿Waji jata ajawa uchigminash?;
+INTERROGATORIO;ND;2;10;ND;ND;No;¿Cómo le comenzó?;¿Wajuk nagkamnauwaita?;
+INTERROGATORIO;ND;2;11;ND;ND;No;¿Poco, fuerte o leve?;¿Dipasagka, senchica atsa tikidipasagka?;
+INTERROGATORIO;ND;2;12;ND;ND;No;¿Se irradia?;¿Wajuk nagkematjutpawa?;
+INTERROGATORIO;ND;2;13;ND;ND;No;Señale con el dedo;Uwegmejai antigta;
+INTERROGATORIO;ND;2;14;ND;ND;No;¿Qué le aumenta el dolor?;¿Aan nagkaemasagka najama?;
+INTERROGATORIO;ND;2;15;ND;ND;No;¿Con qué le calma?;¿Wijiyai imikiawa?;
+INTERROGATORIO;ND;2;16;ND;ND;No;¿Le duele la cabeza?;¿Najaimasmek bukmesh?;
+INTERROGATORIO;ND;2;17;ND;ND;No;¿Le punza?;¿Ijupatsuak?;
+INTERROGATORIO;ND;2;18;ND;ND;No;¿Le late?;¿Pet pet wajatsuak?;
+INTERROGATORIO;ND;2;19;ND;ND;No;¿Le revienta?;¿jakumain dekapeatsuak?;
+INTERROGATORIO;ND;2;20;ND;ND;No;¿Toda la cabeza?;¿ashii buukminka?;
+INTERROGATORIO;ND;2;21;ND;ND;No;¿La mitad?;¿jimaipituka?;
+INTERROGATORIO;ND;2;22;ND;ND;No;¿Ves luces?;¿wainmek winchantaush?;
+INTERROGATORIO;ND;2;23;ND;ND;No;¿Le duele la garganta?;¿suwemesh najaimasbek?;
+INTERROGATORIO;ND;2;24;ND;ND;No;¿Arde, punza?;¿kapaa kapak waja, ijupatsuak?;
+INTERROGATORIO;ND;2;25;ND;ND;No;¿Le duele la boca?;¿Wenemesh najaimasmek?;
+INTERROGATORIO;ND;2;26;ND;ND;No;¿Arde, quema?;¿Kapaak waja, aestamtuaik?;
+INTERROGATORIO;ND;2;27;ND;ND;No;¿Le duele el cuello?;¿Suwem najaimasmek?;
+INTERROGATORIO;ND;2;28;ND;ND;No;¿Le duele la espalda?;¿Tuntupjum najaimasmek?;
+INTERROGATORIO;ND;2;29;ND;ND;No;¿En descanso o en actividad?;¿Takamaunmaka atsa ayamaunmaka?;
+INTERROGATORIO;ND;2;30;ND;ND;No;¿Le duele el pulmón?;¿Najaimasmek suwashjumesh?;
+INTERROGATORIO;ND;2;31;ND;ND;No;¿Cuándo tose le duele más?;¿Ujutkumesh aan senchi najamachuak?;
+INTERROGATORIO;ND;2;32;ND;ND;No;¿Le duele el abdomen?;¿Wakem najaimasmek?;
+INTERROGATORIO;ND;2;33;ND;ND;No;¿Tienes fiebre o escalofríos?;¿Tsuweasmek atsa tsetsetsemat dekapeasmek?;
+INTERROGATORIO;ND;2;34;ND;ND;No;¿Orina bien de día, de noche?;¿Shijak shikipam tsawaish, kashish?;
+INTERROGATORIO;ND;2;35;ND;ND;No;¿Le funciona el intestino diario y formado?;¿Ampugmesh tsawantaish shigka taka?;
+INTERROGATORIO;ND;2;36;ND;ND;No;¿Duerme bien?;¿Shijak kanam?;
+INTERROGATORIO;ND;2;37;ND;ND;No;¿Es cierto que a veces se despierta?¿Cuántas veces?;¿Dekaskekaik shintam ¿dusha wajupa?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO RESPIRATORIO";Respiratorio;3;1;ND;ND;No;"¿Siente dolor al pasar la saliva o los alimentos, ardor o punza
+o le produce la tos?";"¿Yujumak yuwakun najaimasmek suwejun atsa ijupatsuak
+nuniakun ujuttsumek?";
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO RESPIRATORIO";Respiratorio;3;2;ND;ND;No;¿Tienes dolor (ardor punzada) en el cuello?;¿Ajutjamuak najaimamujum ( kapaa wajamu ) suwenum?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO RESPIRATORIO";Respiratorio;3;3;ND;ND;No;"¿Con la tos bota algo de qué color, blanco, verde, amarillo con
+sangre o totalmente con sangre?";"¿UJutak ajapeatsuak pujun samekbaun numpagpagmat
+yagkun amamtinun atsa shig numpan?";
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO RESPIRATORIO";Respiratorio;3;4;ND;ND;No;"¿La tos se acompaña de dolor hacia alguna parte de la espalda
+(tórax)?";¿najaimasmek ujutkumesh tuntupmesh?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO RESPIRATORIO";Respiratorio;3;5;ND;ND;No;¿Siente que le ronca o le silva el pecho?;¿Jukatau dekapeasmek antsamek detsepmin jigkapatsuak?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO RESPIRATORIO";Respiratorio;3;6;ND;ND;No;¿Tiene agitación por momentos o todo el día?;¿Tsawantaika pimpiam atsa wainak nagkamsaka?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO RESPIRATORIO";Respiratorio;3;7;ND;ND;No;¿Tiene dolor punzada cuando tose, camina o respira profundo?;¿Ajatsuak najaimamu ujuta nuniak, wekaega nuniak atsa senchi mayatkum?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO RESPIRATORIO";Respiratorio;3;8;ND;ND;No;Quítese la ropa le voy a examinar;Jashjum awimakta distajame;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO RESPIRATORIO";Respiratorio;3;9;ND;ND;No;Abre la boca;Wagta/ wenem ujaita;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;1;ND;ND;No;¿Se agita cuando camina?;Pimpiasmek wekaega nuniakum;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;2;ND;ND;No;¿Con cuántas almohadas duerme?;Wajupa atamjutaijaiya kanawa;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;3;ND;ND;No;¿Se despierta ahogado cuando duerme?;¿Kanaju Shintakush kijatsuak?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;4;ND;ND;No;¿Le duele el pecho cuando camina?;¿Najaimatsuak detsepenash wekaekush?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;5;ND;ND;No;¿Qué hace para que el dolor pase?;¿Wajina aikawa najaimamun negkaekiti tusash?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;6;ND;ND;No;Además del dolor ¿Qué otra cosas siente?;Najaimamunmash ¿tikichish najaimamunash dekapeatsuak?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;7;ND;ND;No;¿Sudor frio? ¿Mareos?;¿Semamu tsetsemamu? ¿wetbau?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;8;ND;ND;No;¿Ganas de llorar?;¿Butu pujumain?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;9;ND;ND;No;¿Siente que le palpita el pecho?;¿Detsepe petbaun dekapeawai?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;10;ND;ND;No;¿Deme su brazo para ver su presión?;¿Kuntujum sujusta numpem dismi?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;11;ND;ND;No;¿Deme su mano para saber cuánto tiene?;¿Uwejum sujusta wajupak awa dekatjai?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;12;ND;ND;No;Le voy a examinar su corazón;Digsatjai anentain;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;13;ND;ND;No;Respire, no respire, póngase de costado, siéntese.;Mayatta, mayatipa, pujuata yantakam, ekemsata.;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;14;ND;ND;No;Ponga suelto el abdomen;Majamjatu wajasta wakemin;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;15;ND;ND;No;¿Le duele aquí en el lado derecho?;Najaimawai menajin;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;16;ND;ND;No;¿Están sus pies hinchados? ¿En la mañana o en la tarde?;¿Kagkajin iyagchaek? kashikmaska atsa agkuika?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;17;ND;ND;No;Respire profundo un rato y para de respirar un ratito;Mayatta initak machik dutikakum enegta machik;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;18;ND;ND;No;Le voy a dar unos golpecitos suaves en el lado izquierdo de su tórax o pechos;Tikidipasan ijutttajame untsuja dutuni pagaimia atsan;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;19;ND;ND;No;Descúbrase la camisa para examinar su corazón;nugkuajamnu ujamita distajai anentaimin;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;20;ND;ND;No;Late bien y esta normal/ Esta como loco, late rápido.;Shig takawai anentaig/ waujui shenchi, peet peet wajawai;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;21;ND;ND;No;¿Al tocarle el pecho siente como un cosquilleo en su mano?;¿Detsepmi antiesh tejeaush dekapeasmek uwegminish?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;22;ND;ND;No;Voltee la cabeza al lado izquierdo, le voy a apretar el vientre del lado derecho.;Ayampitkata bukem untsugnum, tantanmin shitattajai mena dutuni.;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;23;ND;ND;No;¿Se cansa o se agita cuando camina poca distancia o gran distancia?;¿Pimpiasmek tikiju wekekmesh atsa atushat wekekmesh?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;24;ND;ND;No;¿Siente que su corazón le palpita rápido o por momentos, a veces o siempre cuando camina?;¿Dekapeasmek anenteim buchitush maa maachik asa atsa nii nagkamsaka, atsa tukee wekaeminka?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;25;ND;ND;No;¿Se le hincha los pies por las tardes o es que ya los pies los tiene permanentemente hinchados?;¿Nawemish imatsuak agkuantainish atsa tukee imagbauwaitak achauka?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;26;ND;ND;No;¿Esa hinchazón ha subido hasta las piernas o la barriga (abdomen)?;¿Bakum imajadusha nankemakchet ampunminish?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;27;ND;ND;No;¿Siente el abdomen más hinchado cuando come o después de comer?;¿Dekapeasmek Wakem imaju yuakmesh atsa yuwám pujakmesh?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;28;ND;ND;No;¿Alguna vez se ha despertado bruscamente a media noche porque le faltaba aire para respirar o estaba tosiendo o estaba agitado?;Nantakchamkayum Kashi kanajam shintakmesh mayai ukuamunig betek atsa ujutkashmakum atsa sapigmak chamkum?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;29;ND;ND;No;¿Tuvo alguna vez dolor en el pecho cuando camina y se pasa rápido?;¿Makichik tsawantaish najaimakchamkum detsepmish wekaekmesh dutikak nagkeamatsuak waamak?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;30;ND;ND;No;¿El dolor en el pecho se ha vuelto permanente?;¿Detsepjum najaimamush kashi kashinkeka najaimam?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO CARDIOVASCULAR";Cardiovascular;4;31;ND;ND;No;¿Es algo como que le aprisionaran o apretaran el pecho?;¿Detsepjum chiitamua iman dekapeasmek atsa jigkamua iman?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;1;ND;ND;No;¿Le duele la boca cuando la abre?;¿Wenim najaimasmek waakmesh?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;2;ND;ND;No;¿Cómo está su dentadura, el diente le molesta o duele?;¿Naimesh penkegkaik, naim tutitag awatamtsuak atsa najaimasmek?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;3;ND;ND;No;¿Cuánto tiempo mastica coca, ahora lo viene haciendo?;¿Wajupa tsawanta dawame cocash, yamaikish dawamek?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;4;ND;ND;No;¿Tiene apetito?;¿Nujantash ajutjamuak?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;5;ND;ND;No;¿Le repugna la comida o algunas en especial?;¿Yujumak tsumamush ajutjamtsuak atsa makishkish?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;6;ND;ND;No;¿No tiene deseos de comer, desde cuándo?;¿Yapajamu atsuntamuak, wajutí nagkamsam?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;7;ND;ND;No;¿Ha notado que desde que se le quitó el apetito (deseo de comer) es que ha bajado de peso?;¿Dekapeamek nujanjum menkaeka nui nagkamsam kijinjum menkaeka dusa?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;8;ND;ND;No;¿Tiene dolor en el vientre (abdomen)? ¿Cómo es?;¿ajutjamtsuak Ampugjum najaimamu (akagke) ¿wajukuita?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;9;ND;ND;No;¿Le arde, le quema, le punza, le retuerce, aumenta o calma cuando come?;¿kapaa kapak wajaa, nimpan tatsuak, ijupatsuak, tsukuu wajatsuak senchikaik atsa yuwamin megkaetsuak?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;10;ND;ND;No;¿Es permanente o por ratos?;¿Tsawantaikaik atsa nii diisagka?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;11;ND;ND;No;Cuando le caen mal los alimentos ¿Le dan ganas de arrojar (vomitar), le viene dolor, siente que se hincha (eleva) el abdomen? ¿Cuánto tiempo dura esta molestia?;Yujumak dakitamujinash ¿imumain dekapeatsuak (ímut/imunain) minitjamtsuak najaimamujum, tagkasmek wakemin? ¿wajupa tsawanta waitnumee?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;12;ND;ND;No;¿Cree que algunas comidas le caen mal? ¿Cuáles son: grasas, verduras, chuño blanco o negro?;¿Yujumak yutainash pegkegchau awatamtsuak? ¿ tu ainawa: wiyagtinkaik, atsa juti yutai ainaukaik?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;13;ND;ND;No;¿Le funciona bien el intestino?;¿shiijak wenum ampugminish?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;14;ND;ND;No;¿Ha tenido diarreas? ¿Cómo son: ¿pure, son delgadas, casi como cinta, por pedazos, largas, son gruesas con sangre roja o sin color, casi blancas o de color negro como la brea?;¿ijagkishmakum? ¿wajukuita: tsejegkaik, shig tsejegkaik, kupinjaukaik, esagmakaik, kampujam numpagpamta nuninchaukait atsa putsú, atsa kutaptin bukusea wegasmek?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;15;ND;ND;No;Cuando sus deposiciones son sueltas (diarreas), ¿Se acompañan de dolor, retortijón y sensación de pujo o de querer hacer nuevamente o son de poca cantidad y continúa la molestia?;Yumi ijagkumesh ¿najaimasmek Wakem, dakuemamain dekapeasmek, eetsumek atsa ataktu wakenum wemain achipatsuak atsa ujumak dutikak tutitag awatamtsuak;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;16;ND;ND;No;Si ha tenido dolor en la boca del estómago (epigastrio), ¿Este dolor luego se localiza en el lado derecho y es muy intenso?;Ampujum najaimamush ¿juu najaimamu ajutjamkush menanmakaik nuniakmesh senchi najaimasmek?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;17;ND;ND;No;¿A los pocos días ese dolor se acompaña de coloración amarilla en los ojos y la piel y hay cambio de color de la orina?;¿Anu najaimam dusha ujumak tsawan weaig yagkuju etamtsuak jiminish nuniak iyashminish, shikipakmesh tikish nimtin wegasmek?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;18;ND;ND;No;¿Días después, la deposición es casi blanca?;¿tsawan nagkaemakuish, ijapakmesh puju wegasmek?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;19;ND;ND;No;¿Estas molestias persisten y hay sensación de calor (frío), a veces precedida de escalofríos?;¿Juju najaimam dusha tutitag awatamkush see seema wajasmek atsa tsetsetseemat wajasmek?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO DIGESTIVO";Digestivo;5;20;ND;ND;No;¿La fiebre es constante? ¿Por la tardes o en determinadas horas del día?;¿aju ajumag tsuweasmek? ¿ Agkutig achipatsuak atsa tukee Tsawantaika?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO URINARIO";Urinario;6;1;ND;ND;No;¿Cómo está la orina? ¿De qué color? ¿Cuándo orina mucho o poco?;¿Shikimesh wajukuita? ¿waji nimtinaita? ¿shikipakmesh dukapek shikipam atsa ujumak?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO URINARIO";Urinario;6;2;ND;ND;No;Cada vez que orina, ¿tiene dolor?;shikipa aniakmesh, ¿ajutjamtsuak najaimamu?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO URINARIO";Urinario;6;3;ND;ND;No;¿Orina frecuentemente?;¿maa machik shikipasmek?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO URINARIO";Urinario;6;4;ND;ND;No;¿Orina en las noches? ¿Cuántas veces?;¿kashi shikipamek? ¿wajupa wegame?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO URINARIO";Urinario;6;5;ND;ND;No;¿Cómo es el chorro en la orina? ¿Delgado, grueso o como siempre?;¿wajukuita Shikipam nuwiakmesh? ¿tsejegkak wegam, kampujam atsa tukee wetaigmi dukaik?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO URINARIO";Urinario;6;6;ND;ND;No;¿Algunas veces con ardor, dolor al terminar de orinar?;¿shikipaka nagkankumesh dekapeasmek kapaa wajaush?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO URINARIO";Urinario;6;7;ND;ND;No;¿Su orina es de olor fuerte y turbia?;¿shikimesh mejeatsuak senchi nuniakush chituukchukaik?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO URINARIO";Urinario;6;8;ND;ND;No;¿Alguna vez ha orinado sangre y con dolor?;¿makichik tsawantasih numpagpaamat shikipakchamkium nuniakum najaimachukum?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO URINARIO";Urinario;6;9;ND;ND;No;¿El dolor alguna vez viene de la cintura y baja hacia el abdomen y a los genitales?;¿najaimamujum minakush ikishjuminkaik nuniakush akaetsuak wakemin aniak jintsuak shipataigmin?;
+"PREGUNTAS RELACIONADAS A LA EVALUACIÓN DEL
+APARATO URINARIO";Urinario;6;10;ND;ND;No;¿Puede diferenciar si la sangre viene de la orina o de los genitales?;¿numpa jina dusha sukiminia jintsuak atsa shikipatainum?;

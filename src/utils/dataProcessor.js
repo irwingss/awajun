@@ -32,17 +32,18 @@ export async function processData(filters) {
   console.log("Filtered data:", filteredData.length, "items");
   
   const result = filteredData
-    .sort((a, b) => {
-      if (a.Secuencia_tipos !== b.Secuencia_tipos) {
-        return a.Secuencia_tipos - b.Secuencia_tipos;
-      }
-      return a.Secuencia_intra - b.Secuencia_intra;
-    })
-    .map(item => ({
-      pregunta: item.Pregunta,
-      awajun: item.Awajun
-    }));
-  
+  .sort((a, b) => {
+    if (a.Secuencia_tipos !== b.Secuencia_tipos) {
+      return a.Secuencia_tipos - b.Secuencia_tipos;
+    }
+    return a.Secuencia_intra - b.Secuencia_intra;
+  })
+  .map(item => ({
+    pregunta: item.Pregunta,
+    awajun: item.Awajun,
+    audios: item.audios  
+  }));
+
   console.log("Processed result:", result.length, "items");
   if (result.length > 0) {
     console.log("Sample processed item:", result[0]);

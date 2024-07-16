@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "process-data": "node scripts/process-semiologia-awajun.js public/semiologia_awajun.csv"
   },
   "dependencies": {
     "framer-motion": "^6.5.1",
@@ -17,7 +18,7 @@
   },
   "devDependencies": {
     "eslint": "^7.32.0",
-    "eslint-config-next": "^12.0.0"
+    "eslint-config-next": "^12.0.0",
+    "file-loader": "^6.2.0"
   }
 }
-

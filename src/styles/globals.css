@@ -5,20 +5,37 @@ body {
     margin: 0;
     padding: 0;
     min-height: 100vh;
+    position: relative;
     background: linear-gradient(135deg, #3fba02, #0a43bd, #de105f);
     background-size: 400% 400%;
     animation: gradientBG 15s ease infinite;
+    overflow-x: hidden;
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('/fondo_awajun.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.2; /* Ajusta este valor para cambiar la transparencia */
+    z-index: 1;
 }
 
 @keyframes gradientBG {
     0% {
-        background-position: 0% 50%;
+        background-position: center, 0% 50%;
     }
     50% {
-        background-position: 100% 50%;
+        background-position: center, 100% 50%;
     }
     100% {
-        background-position: 0% 50%;
+        background-position: center, 0% 50%;
     }
 }
   
@@ -298,4 +315,23 @@ h1 {
       }
 }
  
+
+.card {
+    position: relative;
+  }
   
+  .audio-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 24px;
+    color: #047278;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .audio-button:hover {
+    color: #035c61;
+  }
