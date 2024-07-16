@@ -1,0 +1,23 @@
+{
+  "name": "cartillas-awajun",
+  "version": "1.0.0",
+  "description": "Aplicación web para mostrar cartillas con preguntas en español y Awajún",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "framer-motion": "^6.5.1",
+    "next": "^14.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "swiper": "^11.1.5",
+    "swr": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^12.0.0"
+  }
+}
+
